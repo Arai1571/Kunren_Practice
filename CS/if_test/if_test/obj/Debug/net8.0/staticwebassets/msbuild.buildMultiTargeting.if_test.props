@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/if_test.props" />
+</Project>
